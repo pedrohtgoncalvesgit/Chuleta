@@ -7,7 +7,7 @@
   
   body {
     font-family: 'Poppins', sans-serif;
-    background: linear-gradient(135deg, #6a11cb, #2575fc);
+    background: linear-gradient(135deg, #cb1111, #ff6f0e);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -66,15 +66,15 @@
   }
   
   input:focus {
-    border-color: #2575fc;
+    border-color: #fc2525;
     outline: none;
-    box-shadow: 0 0 8px rgba(37, 117, 252, 0.6);
+    box-shadow: 0 0 8px rgba(143, 5, 5, 0.6);
   }
   
   .login-btn {
     width: 100%;
     padding: 15px;
-    background-color: #2575fc;
+    background-color: #fc2525;
     color: white;
     border: none;
     border-radius: 8px;

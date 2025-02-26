@@ -45,11 +45,11 @@
     <title>Chuleta Quente - Login</title>
 </head>
 
-<body class="fundocadastro">
+<body class="fundofixo">
     <div class="login-container">
         <div class="login-form">
              <p class="text-danger text-center" role="alert">
-                <i><img src="../images/logo churrascaria maior.png" class="tamanho_img"></i>
+                <i><img src="../images/logo churrascaria maior.png" class="tamanho_img" style="width: 190px;"></i>
                      </p>
                 <form action="login.php" method="POST">
                       <div class="input-group">
